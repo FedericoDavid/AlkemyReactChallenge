@@ -10,7 +10,7 @@ Made with React Js, bootstrap, reactstrap & axios
 
 - ´npm start´
 
-## 🚨 Don´t forget to download the API and execute both at same time 
+## 🚨 Don´t forget to download the API and execute both at same time 🚨
 
 
 ## Getting Started with Create React App
