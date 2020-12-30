@@ -1,3 +1,18 @@
+# Alkemy React JS Challenge 🌍
+
+Made with React Js, bootstrap, reactstrap & axios
+
+## How to use it
+
+Plase, download the repository or clone and then execute 
+
+- ´npm install´
+
+-´npm start´
+
+## Don´t forget to download the API and execute both at same time 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
