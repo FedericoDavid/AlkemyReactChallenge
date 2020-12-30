@@ -13,7 +13,7 @@ Made with React Js, bootstrap, reactstrap & axios
 ## 🚨 Don´t forget to download the API and execute both at same time 
 
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
